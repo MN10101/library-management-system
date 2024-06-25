@@ -63,9 +63,6 @@ To use these Java files and configuration properties:
 - Spring Boot: The Java files are intended for use with Spring Boot applications.
 - MySQL: The application is designed to work with a MySQL database.
 
-## License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
 
 ## Author
 
